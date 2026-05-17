@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="170"/>
+
+# Abdullah Bin Fazal
+
+### 🎓 BSCS Student  
+### 💻 React Developer | Flutter Enthusiast  
+### 🚀 Passionate About Modern Web Technologies  
+
+</div>
+
+
 💻 Languages: React, Flutter, SQL  <br>- ⚙️ Tools: Git, GitHub, VS Code, Antigravity, Cursor  <br>- 🌐 Basics: HTML, CSS  
 
 
