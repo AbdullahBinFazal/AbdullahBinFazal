@@ -1,18 +1,11 @@
 <div align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="170"/>
-
 # Abdullah Bin Fazal
-
 ### 🎓 BSCS Student  
 ### 💻 React Developer | Flutter Enthusiast  
 ### 🚀 Passionate About Modern Web Technologies  
-
 </div>
 
-
 💻 Languages: React, Flutter, SQL  <br>- ⚙️ Tools: Git, GitHub, VS Code, Antigravity, Cursor  <br>- 🌐 Basics: HTML, CSS  
-
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdvistic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdullahBinFazal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbdullahBinFazal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:numl-s24-16348@numls.edu.pk) 
